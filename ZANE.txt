@@ -1,0 +1,14 @@
+Hey Zane I'm leaving some notes here for you to access whenever you need to.
+
+
+I found out how the .scss files work. It's like an advanced .css file that can handle functions, inheritence,
+etc. I watched a video over it on youtube that was really beneficial that lasted about 20 minutes. I highly
+recommend you watch it as reference. The URL is https://www.youtube.com/watch?v=Zz6eOVaaelI. (The guy's
+dialect is a little annoying but it's only 20 min so...). I think that the combination of sass and bootstrap
+could easily make our website end up looking really professional on all devices.
+
+I think I got an idea for the first application we could develop for PC. I have found multiple different types
+and styles of todo lists, but some have certain functionality that others don't and I have failed to locate
+one that has all the tools that I would like it to have. I thought it might be a cool idea to design a 
+productivity application that could do all of the above. Tell me if you like the idea and I'll set up a repo
+for it in github.
